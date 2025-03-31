@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# NuGet
+packages/
